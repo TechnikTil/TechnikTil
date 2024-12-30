@@ -1,6 +1,7 @@
 # oh, hi! welcome to my profile!
 
 The "Til" part of TilNotDrip.
+(btw pfp by gameboy1969)
 
 ## About Me
  - 14 yo
