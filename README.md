@@ -1,3 +1,4 @@
+<!--this is a baldi reference btw, thanks for the 3 people that got it-->
 # oh, hi! welcome to my profile!
 
 The "Til" part of TilNotDrip.
@@ -6,10 +7,10 @@ The "Til" part of TilNotDrip.
 ## About Me
  - 14 yo
  - Born in Germany, moved to Canada in 2020!
- - i code (shocker)
+ - i code (shocker) <!--holy crap!-->
  - I try to draw, but suck at it
  - I made music once
- - fnf is love, fnf is life
+ - fnf is love, fnf is life <!--fnf is what got me into haxe btw, i did scratch before dat-->
  - will probably be a basement dweller for a living
 
 ## I code in:
