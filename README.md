@@ -7,6 +7,7 @@ The "Til" part of TilNotDrip.
 
 ## About Me
  - 14 yo
+ - i liek yellowe :)
  - Born in Germany, moved to Canada in 2020!
  - i code (shocker) <!--holy crap!-->
  - I try to draw, but suck at it
