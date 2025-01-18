@@ -21,8 +21,8 @@ The "Til" part of TilNotDrip.
 
 ## GitHub Stats:
 
-[![Til's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnikTil)](https://github.com/anuraghazra/github-readme-stats)
+[![Til's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnikTil&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnikTil&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnikTil&layout=pie&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 play sunday night chillin'
