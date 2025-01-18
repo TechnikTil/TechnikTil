@@ -14,6 +14,7 @@ The "Til" part of TilNotDrip.
  - I made music once
  - fnf is love, fnf is life <!--fnf is what got me into haxe btw, i did scratch before dat-->
  - will probably be a basement dweller for a living
+ - in a relationship with crushernotdrip /j/j/j/j/j/j/j/jj/j/j/j/j/j/j/
 
 ## I code in:
 [![Haxe, Javascript, Lua](https://skillicons.dev/icons?i=haxe,javascript,lua&theme=dark)](https://skillicons.dev)
@@ -23,5 +24,3 @@ The "Til" part of TilNotDrip.
 [![Til's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnikTil)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnikTil&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-play snc
