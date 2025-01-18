@@ -24,3 +24,5 @@ The "Til" part of TilNotDrip.
 [![Til's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnikTil)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnikTil&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- play snc -->
