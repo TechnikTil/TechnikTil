@@ -17,7 +17,7 @@ The "Til" part of TilNotDrip.
  - in a relationship with crushernotdrip /j/j/j/j/j/j/j/jj/j/j/j/j/j/j/
 
 ## I code in:
-[![Haxe, Javascript, Lua](https://skillicons.dev/icons?i=haxe,javascript,lua&theme=dark)](https://skillicons.dev)
+[![Haxe, Javascript, ts (Typescript), Lua](https://skillicons.dev/icons?i=haxe,javascript,typescript,lua&theme=dark)](https://skillicons.dev)
 
 ## GitHub Stats:
 
