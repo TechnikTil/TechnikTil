@@ -14,7 +14,7 @@ The "Til" part of TilNotDrip.
  - I made music once
  - fnf is love, fnf is life <!--fnf is what got me into haxe btw, i did scratch before dat-->
  - will probably be a basement dweller for a living
- - in a relationship with crushernotdrip /j/j/j/j/j/j/j/jj/j/j/j/j/j/j/
+ - In a Discord Group Chat called "Couples Counseling #1" (dont ask)
 
 ## I code in:
 [![Haxe, Javascript, ts (Typescript), Lua](https://skillicons.dev/icons?i=haxe,javascript,typescript,lua&theme=dark)](https://skillicons.dev)
