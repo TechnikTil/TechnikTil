@@ -1,7 +1,7 @@
 <!--this is a baldi reference btw, thanks for the 3 people that got it-->
 # oh, hi! welcome to my profile!
 
-The "Til" part of TilNotDrip.
+The "Til" part of [TilNotDrip](https://www.tilnotdrip.org/).
 
 (btw pfp by gameboy1969)
 
