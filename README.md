@@ -1,6 +1,8 @@
 <!--this is a baldi reference btw, thanks for the 3 people that got it-->
 # oh, hi! welcome to my profile!
 
+[Check out my Website while you're at it!](https://techniktil.tilnotdrip.org/)
+
 The "Til" part of TilNotDrip.
 
 (btw pfp by gameboy1969)
