@@ -25,4 +25,4 @@ The "Til" part of TilNotDrip.
 
 [![Til's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TechnikTil&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-play sunday night chillin'
+[visit my website](https://techniktil.tilnotdrip.org/)
