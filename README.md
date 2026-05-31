@@ -5,7 +5,7 @@
 
 The "Til" part of [TilNotDrip](https://www.tilnotdrip.org/).
 
-(btw pfp by gameboy1969)
+(btw pfp by shoppingcart_r)
 
 ## About Me
  - 15 yo
