@@ -16,7 +16,7 @@ The "Til" part of [TilNotDrip](https://www.tilnotdrip.org/).
  - I made music once
  - fnf is love, fnf is life <!--fnf is what got me into haxe btw, i did scratch before dat-->
  - will probably be a basement dweller for a living
- - In a Discord Group Chat called "Couples Counseling #1" (dont ask)
+ - In a Discord Group Chat called "Couples Counseling #2" (dont ask)
 
 ## I code in:
 [![Haxe, Javascript, ts (Typescript), Lua](https://skillicons.dev/icons?i=haxe,javascript,typescript,lua&theme=dark)](https://skillicons.dev)
@@ -28,5 +28,3 @@ The "Til" part of [TilNotDrip](https://www.tilnotdrip.org/).
 [![Til's WakaTime stats](https://github-readme-stats.tilnotdrip.org/api/wakatime?username=@TechnikTil&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Til's Total Wakatime](https://wakatime.com/badge/user/adbd4bf6-3415-40a5-9d7a-f00f5ba43ce5.svg)](https://wakatime.com/@adbd4bf6-3415-40a5-9d7a-f00f5ba43ce5)
-
-play sunday night chillin'
